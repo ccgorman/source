@@ -1,4 +1,5 @@
 <?php
+//add a comment
 	define("DATA_PREFIX","af_");
 	define ("BASE_URL", "http://".$_SERVER["HTTP_HOST"]."/");
 	define ("BASE_THEME", "base");
